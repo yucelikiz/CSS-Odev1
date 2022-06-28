@@ -4,4 +4,4 @@
 
 ##.css dosyası oluşturuldu.
 
-![patika.dev profil adresi](https://app.patika.dev/yucelikiz)
+[patika.dev profil adresi](https://app.patika.dev/yucelikiz)
